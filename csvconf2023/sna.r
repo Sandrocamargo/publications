@@ -1,5 +1,6 @@
 # Sandro Camargo <sandrocamargo@unipampa.edu.br> and Yanina Bellini <yabellini@gmail.com>
 # Social Network Analysis 
+# Conference: https://csvconf.com/
 
 # Clear the environment
 rm(list=ls())
