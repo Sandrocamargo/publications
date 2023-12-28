@@ -1,6 +1,6 @@
-## Encontro de Ciência e Tecnologia do IFSul – Câmpus Bagé : uma análise através da perspectiva das redes sociais
+### Encontro de Ciência e Tecnologia do IFSul – Câmpus Bagé : uma análise através da perspectiva das redes sociais
 
-Este artigo foi publicado na Revista Thema, no Volume X, Número Y, disponível no seguinte link: ZZZZ.
+Este artigo foi publicado na Revista Thema, no Volume X, Número Y, disponível no seguinte [link](https://periodicos.ifsul.edu.br/index.php/thema/issue/view/120).
 
 Este material suplementar disponibiliza a base de dados utilizada, os resultados detalhados e as figuras das redes de colaboração.
 
@@ -18,7 +18,7 @@ Para mais detalhes sobre o estudo, sugerimos a leitura do artigo completo.
 
 ## Base de Dados
 
-A base de dados utilizada para este estudo está disponível no arquivo em autores.txt. Este arquivo contém os nomes dos autores de todos os artigos publicados no evento.
+A base de dados utilizada para este estudo está disponível no arquivo em [autores.txt](https://github.com/Sandrocamargo/publications/blob/main/revistathema2023/sna/autores.txt). Este arquivo contém os nomes dos autores de todos os artigos publicados no evento.
 
 ## Imagens
 
