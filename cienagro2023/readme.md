@@ -31,14 +31,14 @@ As imagens, em formato PDF, são as seguintes:
 - [cienagro-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienagro2023/cienagro-crop.pdf): contém todos os autores que publicaram no evento, com suas respectivas colaborações.
 - [cienagro-maisde5-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienagro2023/cienagro-maisde5-crop.pdf): contém apenas os autores que estão no ranking de maiores autores, com suas respectivas colaborações.
 - [cienagro-comunidade1-angela-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienagro2023/cienagro-comunidade1-angela-crop.pdf): contém todos os autores da maior comunidade de coautoria do evento, com suas respectivas colaborações.
-- [comunidade2.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2023/sna/comunidade2.pdf): contém todos os autores da segunda maior comunidade de coautoria do evento, com suas respectivas colaborações.
-- [comunidade3.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2023/sna/comunidade3.pdf): contém a terceira maior comunidade.
-- [comunidade4.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2023/sna/comunidade4.pdf): contém a quarta maior comunidade.
-- [comunidade5.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2023/sna/comunidade5.pdf): contém a quinta maior comunidade.
-- [comunidade6.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2023/sna/comunidade6.pdf): contém a sexta maior comunidade.
-- [comunidade7.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2023/sna/comunidade7.pdf): contém a sétima maior comunidade.
-- [comunidade8.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2023/sna/comunidade8.pdf): contém a oitava maior comunidade.
-- [comunidade9.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2023/sna/comunidade9.pdf): contém a nona maior comunidade.
+- [cienagro-comunidade2-edson-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2023/sna/cienagro-comunidade2-edson-crop.pdf): contém todos os autores da segunda maior comunidade de coautoria do evento, com suas respectivas colaborações.
+- [cienagro-comunidade3-nilson-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2023/sna/cienagro-comunidade3-nilson-crop.pdf): contém a terceira maior comunidade.
+- [cienagro-comunidade4-glauco-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2023/sna/cienagro-comunidade4-glauco-crop.pdf): contém a quarta maior comunidade.
+- [cienagro-comunidade5-anaclaudia-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2023/sna/cienagro-comunidade5-anaclaudia-crop.pdf): contém a quinta maior comunidade.
+- [cienagro-comunidade6-caroline-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2023/sna/cienagro-comunidade6-caroline-crop.pdf): contém a sexta maior comunidade.
+- [cienagro-comunidade7-rosani-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2023/sna/cienagro-comunidade7-rosani-crop.pdf): contém a sétima maior comunidade.
+- [cienagro-comunidade8-camila-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2023/sna/cienagro-comunidade8-camila-crop.pdf): contém a oitava maior comunidade.
+- [cienagro-comunidade9-julio-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2023/sna/cienagro-comunidade9-julio-crop.pdf): contém a nona maior comunidade.
 
 
 ## Direitos Autorais
