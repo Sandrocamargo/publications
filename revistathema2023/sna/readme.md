@@ -8,6 +8,7 @@ Este material suplementar disponibiliza a base de dados utilizada, os resultados
 
 - [Introdução](#Introdução)
 - [Base de Dados](#Base-de-Dados)
+- [Resultados Detalhados](#Resultados-Detalhados)
 - [Imagens](#Imagens)
 - [Direitos Autorais](#Direitos-Autorais)
 - [Citação](#Citação)
@@ -19,6 +20,10 @@ Para mais detalhes sobre o estudo, sugerimos a leitura do artigo completo.
 ## Base de Dados
 
 A base de dados utilizada para este estudo está disponível no arquivo em [autores.txt](https://github.com/Sandrocamargo/publications/blob/main/revistathema2023/sna/autores.txt). Este arquivo contém os nomes dos autores de todos os artigos publicados no evento.
+
+## Resultados Detalhados
+
+Os resultados detalhados, com as métricas de todos os autores, está disponível em [autores.ods](https://github.com/Sandrocamargo/publications/blob/main/revistathema2023/sna/autores.ods). 
 
 ## Imagens
 
