@@ -8,9 +8,9 @@ Este material suplementar disponibiliza a base de dados utilizada, os resultados
 
 - [Introdução](#Introdução)
 - [Base de Dados](#Base-de-Dados)
-- [Imagens](#imagens)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
+- [Imagens](#Imagens)
+- [Direitos Autorais](#Direitos-Autorais)
+- [Citação](#Citação)
 
 ## Introdução
 
@@ -34,3 +34,10 @@ As imagens, em formato PDF, são as seguintes:
 - comunidade7.pdf: contém a sétima maior comunidade.
 - comunidade8.pdf: contém a oitava maior comunidade.
 - comunidade9.pdf: contém a nona maior comunidade.
+
+
+## Direitos Autorais
+
+Este material está disponível sobre a licensa [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
+
+## Citação
