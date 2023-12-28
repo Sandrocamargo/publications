@@ -23,8 +23,8 @@ A base de dados utilizada para este estudo está disponível no arquivo em autor
 ## Imagens
 
 As imagens, em formato PDF, são as seguintes:
-- redecompleta.pdf: contém todos os autores que publicaram no evento, com suas respectivas colaborações.
-- autoresdoranking.pdf: contém apenas os autores que estão no ranking de maiores autores, com suas respectivas colaborações.
+- [redecompleta.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2023/sna/redecompleta.pdf): contém todos os autores que publicaram no evento, com suas respectivas colaborações.
+- [autoresdoranking.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2023/sna/autoresdoranking.pdf): contém apenas os autores que estão no ranking de maiores autores, com suas respectivas colaborações.
 - comunidade1.pdf: contém todos os autores da maior comunidade de coautoria do evento, com suas respectivas colaborações.
 - comunidade2.pdf: contém todos os autores da segunda maior comunidade de coautoria do evento, com suas respectivas colaborações.
 - comunidade3.pdf: contém a terceira maior comunidade.
