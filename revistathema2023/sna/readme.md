@@ -27,3 +27,10 @@ As imagens, em formato PDF, são as seguintes:
 - autoresdoranking.pdf: contém apenas os autores que estão no ranking de maiores autores, com suas respectivas colaborações.
 - comunidade1.pdf: contém todos os autores da maior comunidade de coautoria do evento, com suas respectivas colaborações.
 - comunidade2.pdf: contém todos os autores da segunda maior comunidade de coautoria do evento, com suas respectivas colaborações.
+- comunidade3.pdf: contém a terceira maior comunidade.
+- comunidade4.pdf: contém a quarta maior comunidade.
+- comunidade5.pdf: contém a quinta maior comunidade.
+- comunidade6.pdf: contém a sexta maior comunidade.
+- comunidade7.pdf: contém a sétima maior comunidade.
+- comunidade8.pdf: contém a oitava maior comunidade.
+- comunidade9.pdf: contém a nona maior comunidade.
