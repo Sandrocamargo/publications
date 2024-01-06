@@ -1,6 +1,6 @@
 ### Encontro de Ciência e Tecnologia do IFSul – Câmpus Bagé : uma análise através da perspectiva das redes sociais
 
-Este artigo foi publicado na Revista Thema, no Volume X, Número Y, disponível no seguinte [link](https://periodicos.ifsul.edu.br/index.php/thema/issue/view/120).
+Este artigo foi publicado na Revista Thema, no Volume 22, Número 3, disponível no seguinte [link](https://periodicos.ifsul.edu.br/index.php/thema/article/view/2909).
 
 Este material suplementar disponibiliza a base de dados utilizada, os resultados detalhados e as figuras das redes de colaboração.
 
@@ -46,3 +46,5 @@ As imagens, em formato PDF, são as seguintes:
 Este material está disponível sobre a licensa [Creative Commons](https://creativecommons.org/licenses/by/3.0/). Desta forma, ele pode ser livremente reutilizado, desde que citada a fonte.
 
 ## Citação
+
+MORELES, K. da R.; CAMARGO, S. da S. Encontro de Ciência e Tecnologia do IFSul – Câmpus Bagé: uma análise através da perspectiva das redes sociais. Revista Thema, Pelotas, v. 22, n. 3, p. 827–841, 2023. DOI: 10.15536/thema.V22.2023.827-841.2909. Disponível em: https://periodicos.ifsul.edu.br/index.php/thema/article/view/2909.
