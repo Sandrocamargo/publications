@@ -1,6 +1,6 @@
-### \textit{Anais Brasileiros de Dermatologia}: Who wrote this century-old history?
+### Anais Brasileiros de Dermatologia: Who wrote this century-old history?
 
-This paper was published in \textit{Anais Brasileiros de Dermatologia}, Volume X, Issue Y, available at [link](https://periodicos.ifsul.edu.br/index.php/thema/article/view/2909).
+This paper was published in Anais Brasileiros de Dermatologia, Volume X, Issue Y, available at [link](https://www.scielo.br/j/abd/grid).
 
 This supplementary material provides the database used, detailed results, and the collaboration network figures.
 
