@@ -23,7 +23,7 @@ The database used for this study is available in the file [authors.txt](https://
 
 ## Detailed Results
 
-The detailed results, including the metrics for all authors, are available at [autores.xls](https://github.com/Sandrocamargo/publications/blob/main/abd25/autores.xls). 
+The detailed results, including the metrics for all authors, are available at [complete-ranking.xls](https://github.com/Sandrocamargo/publications/blob/main/abd25/complete-ranking.xls). 
 
 ## Images
 
