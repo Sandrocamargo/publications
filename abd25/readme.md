@@ -10,7 +10,7 @@ This supplementary material provides the database used, detailed results, and th
 - [Dataset](#Dataset)
 - [Detailed Results](#Detailed-Results)
 - [Images](#Images)
-- [Direitos Autorais](#Direitos-Autorais)
+- [Copyright](#Copyright)
 - [Citation](#Citation)
 
 ## Introduction
