@@ -19,11 +19,11 @@ For more details about the study, we suggest reading the full article.
 
 ## Dataset
 
-The database used for this study is available in the file [authors.txt](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/autores.txt). This file contains the names of the authors of all articles published in the event.
+The database used for this study is available in the file [authores.txt](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/autores.txt). This file contains the names of the authors of all articles published in the event.
 
 ## Detailed Results
 
-The detailed results, including the metrics for all authors, are available at [complete-ranking.xls](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/autores.ods). 
+The detailed results, including the metrics for all authors, are available at [autores.ods](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/autores.ods). 
 
 ## Images
 
@@ -39,7 +39,7 @@ Images, in PDF format, are as follows:
 - [comunidade7-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/comunidade7-crop.pdf): All authors of the seventh largest community.
 - [comunidade8-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/comunidade8-crop.pdf): All authors of the eighth largest community.
 - [comunidade9-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/comunidade9-crop.pdf): All authors of the nineth largest community.
-
+- [cidades-ranking.html](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/cidade-ranking.html): Cities of ranking authors.
 
 
 ## Copyright
