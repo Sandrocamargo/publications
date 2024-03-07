@@ -28,8 +28,8 @@ The detailed results, including the metrics for all authors, are available at [c
 ## Images
 
 Images, in PDF format, are as follows:
-- [todos-fruchterman-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/todos-fruchterman-crop.pdf): It contains all the authors who have published in the event, along with their respective collaborations.
-- [50+-crop](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/5oumais-crop.pdf): It contains only the authors who are in the ranking of top authors, along with their respective collaborations.
+- [completa-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/completa-crop.pdf): It contains all the authors who have published in the event, along with their respective collaborations.
+- [5oumais-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/5oumais-crop.pdf): It contains only the authors who are in the ranking of top authors, along with their respective collaborations.
 - [comunidade1-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/comunidade1-crop.pdf): All authors of the largest community.
 - [comunidade2-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/comunidade2-crop.pdf): All authors of the second largest community.
 - [comunidade3-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/comunidade3-crop.pdf): All authors of the third largest community.
