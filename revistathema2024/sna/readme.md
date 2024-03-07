@@ -39,7 +39,7 @@ Images, in PDF format, are as follows:
 - [comunidade7-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/comunidade7-crop.pdf): All authors of the seventh largest community.
 - [comunidade8-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/comunidade8-crop.pdf): All authors of the eighth largest community.
 - [comunidade9-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/comunidade9-crop.pdf): All authors of the nineth largest community.
-- [cidades-ranking.html](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/cidade-ranking.html): Cities of ranking authors.
+- [cidades-ranking.html](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/cidades-ranking.html): Cities of ranking authors.
 
 
 ## Copyright
