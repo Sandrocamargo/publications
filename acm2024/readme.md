@@ -24,7 +24,7 @@ The database used for this study is available in the file [authores.txt](https:/
 
 ## Detailed Results
 
-The detailed results, including the metrics for all authors, are available at [autores.ods](https://github.com/Sandrocamargo/publications/blob/main/acm2024/autores.ods). 
+The detailed results, including the metrics for all authors, are available at [metricas.xls](https://github.com/Sandrocamargo/publications/blob/main/acm2024/metricas.xls). 
 
 ## Images
 
