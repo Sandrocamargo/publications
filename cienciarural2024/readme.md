@@ -30,28 +30,28 @@ The detailed results, including the metrics for all authors, are available at [r
 Images, in PDF format, are as follows:
 - [completa-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/completa-crop.pdf): It contains all the authors who have published in the event, along with their respective collaborations.
 - [35+-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/35+-crop.pdf): It contains only the authors who are in the ranking of top authors, along with their respective collaborations.
-- [community1-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com1-crop.pdf): All authors of the largest community.
+- [community1.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com1-crop.pdf): All authors of the largest community.
 - [community1-core.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com1-15+-crop.pdf): Top authors of the largest community.
-- [community2-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com2-crop.pdf): All authors of the second largest community.
+- [community2.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com2-crop.pdf): All authors of the second largest community.
 - [community2-core.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com2-15+-crop.pdf): Top authors of the second largest community.
-- [community3-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com3-crop.pdf): All authors of the third largest community.
+- [community3.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com3-crop.pdf): All authors of the third largest community.
 - [community3-core.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com3-15+-crop.pdf): Top authors of the third largest community.
-- [community4-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com4-crop.pdf): All authors of the fourth largest community.
+- [community4.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com4-crop.pdf): All authors of the fourth largest community.
 - [community4-core.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com4-15+-crop.pdf): Top authors of the fourth largest community.
-- [community5-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com5-crop.pdf): All authors of the fifth largest community.
+- [community5.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com5-crop.pdf): All authors of the fifth largest community.
 - [community5-core.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com5-15+-crop.pdf): Top authors of the fifth largest community.
-- [community6-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com6-crop.pdf): All authors of the sixth largest community.
+- [community6.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com6-crop.pdf): All authors of the sixth largest community.
 - [community6-core.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com6-15+-crop.pdf): Top authors of the sixth largest community.
-- [community7-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com7-crop.pdf): All authors of the seventh largest community.
+- [community7.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com7-crop.pdf): All authors of the seventh largest community.
 - [community7-core.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com7-15+-crop.pdf): Top authors of the seventh largest community.
-- [community8-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com8-crop.pdf): All authors of the eighth largest community.
+- [community8.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com8-crop.pdf): All authors of the eighth largest community.
 - [community8-core.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com8-15+-crop.pdf): Top authors of the eighth largest community.
-- [community9-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com9-crop.pdf): All authors of the nineth largest community.
+- [community9.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com9-crop.pdf): All authors of the nineth largest community.
 - [community9-core.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com9-15+-crop.pdf): Top authors of the nineth largest community.
-- [community10-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com10-crop.pdf): All authors of the nineth largest community.
-- [community10-core.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com10-15+-crop.pdf): Top authors of the nineth largest community.
-- [community11-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com11-crop.pdf): All authors of the nineth largest community.
-- [community11-core.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com11-15+-crop.pdf): Top authors of the nineth largest community.
+- [community10.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com10-crop.pdf): All authors of the tenth largest community.
+- [community10-core.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com10-15+-crop.pdf): Top authors of the tenth largest community.
+- [community11.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com11-crop.pdf): All authors of the eleventh largest community.
+- [community11-core.pdf](https://github.com/Sandrocamargo/publications/blob/main/cienciarural2024/com11-15+-crop.pdf): Top authors of the eleventh largest community.
 ## Copyright
 
 This material is available by [Creative Commons](https://creativecommons.org/licenses/by/3.0/) License. Therefore, it can be freely reused as long as the source is cited.
