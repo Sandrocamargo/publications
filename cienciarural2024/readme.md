@@ -1,6 +1,6 @@
 ### 55 Years of Ciência Rural Journal: Unveiling the Authors of a Legacy
 
-This paper was published in Revista Ciência Rural, Volume X, Issue Y, available at [link](https://revista.acm.org.br).
+This paper was published in Revista Ciência Rural, Volume X, Issue Y, available at [link](https://www.scielo.br/j/cr/).
 
 This supplementary material provides the database used, detailed results, and the collaboration network figures.
 
