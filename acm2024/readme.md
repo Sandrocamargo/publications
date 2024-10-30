@@ -20,7 +20,7 @@ For more details about the study, we suggest reading the full article.
 
 ## Dataset
 
-The database used for this study is available in the file [authores.txt](https://github.com/Sandrocamargo/publications/blob/main/acm2024/autores.txt). This file contains the names of the authors of all articles published in the event.
+The database used for this study is available in the file [authors.txt](https://github.com/Sandrocamargo/publications/blob/main/acm2024/autores.txt). This file contains the names of the authors of all articles published in the event.
 
 ## Detailed Results
 
