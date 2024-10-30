@@ -1,7 +1,6 @@
-### 65 ANOS DOS ARQUIVOS CATARINENSES DE MEDICINA: 
-QUEM ESCREVEU ESTA HISTÓRIA?
+### 65 ANOS DOS ARQUIVOS CATARINENSES DE MEDICINA: QUEM ESCREVEU ESTA HISTÓRIA?
 
-This paper was published in Revista ACM, Volume 52, Issue 4, available at [link](https://revista.acm.org.br/arquivos/article/view/1483).
+This paper was published in Revista ACM, Volume X, Issue Y, available at [link](https://revista.acm.org.br).
 
 This supplementary material provides the database used, detailed results, and the collaboration network figures.
 
