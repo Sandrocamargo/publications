@@ -538,7 +538,6 @@
                     ALEXANDRE MELLO FILHO, NÉLSON GUIMARÃES PROENÇA, IVAL PERES ROSA, WALTER AUGUSTO PEREIRA 
                     ELISABETH LANGER WROCLAWSKI, LUIZ CARLOS CUCÉ, ALBERTO SALEBIAN 
                     ANDRÉA CABRAL DE MENEZES GURFINKEL, SÍLVIO GURFINKEL, DAVID RUBEM AZULAY, LUNA AZULAY ABULAFIA, RUBEM DAVID AZULAY 
-                    
                     EVERTON SIVIERO DO VALE, BERNARDO GONTIJO, SILVIO ALENCAR MARQUES 
                     HEBERT ROBERTO CLIVATI BRANDT, MARCELO ARNONE, NEUSA YURIKO SAKAI VALENTE, PAULO RICARDO CRIADO, MIRIAN NACAGAMI SOTTO 
                     LÚCIA MENSATO REBELLO DA SILVA, PAULO ROWILSON CUNHA 
@@ -855,7 +854,7 @@
                     OLAVO DANTAS 
                     HEITOR OLIVEIRA CUNHA  
                     J. RAMOS E SILVA 
-                    DR. MARCEL LEGER, 
+                    DR. MARCEL LEGER
                     MLLE. OLGA ELIASCHEFF  
                     DR. FLAVIANO SILVA  
                     DR. J. RAMOS E SILVA 
@@ -918,6 +917,7 @@
                     DR. J. C. NOGUEIRA PENIDO 
                     DR. RUY GOMES 
                     PRO. HENRIQUE CASTRIOTO 
+                    AGUINALDO BONALUMI FILHO 
                     Everton Siviero do Vale, Bernardo Gontijo, Silvio Alencar Marques 
                     Aparecida Machado de Moraes, Paulo Eduardo Neves Ferreira Velho, Renata Ferreira Magalhães 
                     Júnia Maria Fernandes Araújo, Ana Rosa Magaldi Ribeiro de Oliveira, Sâmya Diégues Cedrim, Olímpia Castelo Tristão, Aloísio Gamonal 
@@ -1722,7 +1722,7 @@
                     NELSON CARVALHO 
                     D. PERYASSÚ 
                     RUBEM DAVID AZULAY 
-                    JOSÉ AUGUSTO SOARES, Aadksdjskdj, JKLLKJÇKLJÇLKJÇ, njm,nm,., ytrytru 
+                    JOSÉ AUGUSTO SOARES
                     R. ROTBERG E COLS 
                     D. PERYASSÚ 
                     Antar Padilha Gonçalves 
@@ -3037,7 +3037,7 @@
                     Linton Wallis Figueiredo Souza; Simone Vilas Trancoso Souza; Ana Cristina de Carvalho Botelho 
                     Ida Alzira Gomes Duarte; Greta Merie Tanaka; Nathalie Mie Suzuki; Rosana Lazzarini; Andressa Sato de Aquino Lopes; Beatrice Mussio Fornazier Volpini; Paulo Carrara de Castro 
                     Pedro Vale Machado; Egon Luiz Rodrigues Daxbacher; Daniel Lago Obadia; Edna Ferreira da Cunha; Maria de Fátima Guimarães Scotelaro Alves; Danielle Mann 
-                    Alessandro Afornali; Rodrigo de Vecchi; Rodrigo Makowiecky Stuart; Gustavo Dieamant; Luciana Lima de Oliveira; Carla Abdo Brohem; Israel Henrique Stokfisz Feferman; Lincoln Helder Zambaldi Fabrício; Márcio Lorencini 
+                    Alessandro Afornali; Rodrigo de Vecchi; Rodrigo Makowiecky Stuart; Gustavo Dieamant; Luciana Lima de Oliveira; Carla Abdo Brohem; Israel Henrique Stokfisz Feferman; Lincoln Helder Zambaldi Fabrício; Márcio Lorencini
                     Maria Fernanda Reis Gavazzoni Dias; Fred Bernardes-Filho; Maria Victória Pinto Quaresma-Santos; Adriana Gutstein da Fonseca Amorim; Regina Casz Schechtman; David Rubem Azulay 
                     Guida Santos; Sara Lestre; Alexandre João 
                     Kleyton de Carvalho Mesquita; Ana Carolina de Souza Machado Igreja; Izelda Maria Carvalho Costa 
@@ -3085,7 +3085,7 @@
                     Jucélio Pereira Moura Filho; Raiza Luna Peixoto; Lívia Gomes Martins; Sillas Duarte de Melo; Ligiana Leite de Carvalho; Ana Karine F. da Trindade C. Pereira; Eutilia Andrade Medeiros Freire 
                     Renan Rangel Bonamigo 
                     Tania Ferreira Cestari; Lia Pinheiro Dantas; Juliana Catucci Boza 
-                    Patrick Alexander Wachholz; Paula Yoshiko Masuda; Dejair Caitano Nascimento; Cecilia Midori Higashi Taira; Norma Gondim Cleto 
+                    Patrick Alexander Wachholz; Paula Yoshiko Masuda; Dejair Caitano Nascimento; Cecilia Midori Higashi Taira; Norma Gondim Cleto
                     Cláudia Schermann Poziomczyk; Júlia Kanaan Recuero; Luana Bringhenti; Fernanda Diffini Santa Maria; Carolina Wiltgen Campos; Giovanni Marcos Travi; André Moraes Freitas; Marcia Angelica Peter Maahs; Paulo Ricardo Gazzola Zen; Marilu Fiegenbaum; Sheila Tamanini de Almeida; Renan Rangel Bonamigo; Ana Elisa Kiszewski Bau 
                     Nilton Di Chiacchio; Celso Luiz Madeira; Caio Rosa Humaire; Camila Simon Silva; Lucia Helena Gomes Fernandes; Ana Lucia Dos Reis 
                     Iolanda Conde Fernandes; Maria dos Anjos Teixeira; Inês Freitas; Manuela Selores; Rosário Alves; Margarida Lima 
@@ -3419,7 +3419,7 @@
                     Marcus Maia; Beatrice Mussio Fornazier Volpini; Gabriela Alves dos Santos; Maria Josefa Penon Rujula 
                     Yasemin Yuyucu Karabulut; Engin Şenel; Hacı Halil Karabulut; Yasemin Dölek 
                     David Alejandro Gonzalez-Chica; João Luiz Bastos; Rodrigo Pereira Duquia; Renan Rangel Bonamigo; Jeovany Martínez-Mesa 
-                    Paulo Müller Ramos; Hélio Amante Miot 
+                    Paulo Müller Ramos<i>; </i>Hélio Amante Miot 
                     Erhan Ayhan; Derya Ucmak; ZeynepMeltem Akkurt 
                     Catharina Maria Freire de Lucena Pousa; Natália Solon Nery; Danielle Mann; Daniel Lago Obadia; Maria de Fátima Gonçalves Scotelaro Alves 
                     Aline Soares de Sousa; Osório Alves Corrêa de Castro Lara; Francine Papaiordanou; Gláucia Silva Simioni Marchioro; Antonio José Tebcherani 
@@ -3455,7 +3455,7 @@
                     Pétra Pereira de Sousa; Rossilene Conceição da Silva Cruz; Antonio Pedro Mendes Schettini; Danielle Cristine Westphal 
                     Maria Victória Quaresma; Ana Carolina Dias Gomes; Aline Serruya; Dâmia Leal Vendramini; Lara Braga; Alice Mota Buçard 
                     Justyna Gornowicz-Porowska; Marian Dmochowski; Pawel Pietkiewicz; Monika Bowszyc-Dmochowska 
-                    Hiram Larangeira de Almeida Jr.; Roberta Oliveira Boabaid; Vitor Timm; Ricardo Marques e Silva; Luis Antonio Suita de Castro 
+                    Hiram Larangeira de Almeida Jr.; Roberta Oliveira Boabaid; Vitor Timm Ricardo Marques e Silva; Luis Antonio Suita de Castro 
                     Pedro Jose Secchin de Andrade; Sulamita dos Santos Nascimento Dutra Messias; Paola Cristina Brandão Oliveira Ferreira; Anna Maria Sales; Alice de Miranda Machado; José Augusto da Costa Nery 
                     Catharina Maria Freire de Lucena Pousa; Fernanda Guedes Lavorato; Fernanda Valente Rehfeldt; Danielle Mann; Maria de Fátima Gonçalves Scotelaro Alves 
                     Lia Dias Pinheiro Dantas; Lucio Bakos; Gabriela Balbinot; Carine Elisabete Rost Drechsler; Letícia Maria Eidt 
@@ -3752,7 +3752,7 @@
                     Laís Cruz Lobato; Jéssica Castiel Coutinho; Maria Zeli Moreira Frota; Antonio Pedro Mendes Schettini; Mônica Santos  
                     Maria Helena Toda Sanches de Brito; Cecília Silva Nunes de Moura Dionísio; Cândida Margarida Branco Martins Fernandes; Joana Cintia Monteiro Ferreira; Maria Joaninha Madalena de Palma Mendonça da Costa Rosa; Maria Manuela Antunes Pecegueiro da Silva Garcia 
                     Luise Ribeiro Daltro; Lygia Bertalha Yaegashi; Rodrigo Abdalah Freitas; Bruno de Carvalho Fantini; Cacilda da Silva Souza 
-                    Stephanie Galiza Dantas; Leonardo Pereira Quintella; Nurimar Conceição Fernandes 
+                    Stephani</b>e Galiza Dantas; Leonardo Pereira Quintella; Nurimar Conceição Fernandes 
                     Ana Cecília Versiani Duarte Pinto; Tatiana Cristina Pedro Cordeiro de Andrade; Fernanda Freitas de Brito; Gardênia Viana da Silva; Maria Lopes Lamenha Lins Cavalcante; Antonio Carlos Ceribelli Martelli 
                     Renan Minotto; Camila Britto Rodrigues; Aline Barcellos Grill; Roque Furian 
                     Márcia Maria Vivan; Sérgio Henrique Hirata; Liliane Santos do Nascimento; Milvia Maria Simões e Silva Enokihara 
@@ -4209,7 +4209,7 @@
                     Flávia Cisi Tannus; Fabíola Rosa Picosse; Juliana Marques Soares; Edileia Bagatin 
                     Jorge Ocampo-Candiani; Mauricio Salinas-Santander; Victor Trevino; Rocio Ortiz-López; Jorge Ocampo-Garza; Celia Nohemi Sanchez-Dominguez 
                     Carlos Baptista Barcaui; Renato Marchiori Bakos; Francisco Macedo Camargo Paschoal; Flávia Vazquez Bittencourt; Guilherme Augusto Gadens; Sérgio Hirata; Maurício Mendonça Nascimento; Bianca Costa Soares de Sá; Juan Piñeiro Maceira 
-                    Raquel Colenci; Luciana Patricia Fernandes Abbade 
+                    Raquel Colenci; Luciana Patricia Fernandes Abbade
                     Jose Candido Caldeira Xavier Júnior; Juliana Polizel Ocanha-Xavier 
                     Juan Eduardo Carrasco-Zuber; Sergio Álvarez-Véliz; Catherina Moll-Manzur; Sergio González-Bombardiere 
                     Danielle Santana Mello; Mariana Rita de Novaes Fernandes; Alexandre Carlos Gripp; Maria de Fátima Guimarães Scotelaro Alves 
@@ -4458,12 +4458,12 @@
                     John Verrinder Veasey; Adriana Bittencourt Campaner; Rute Facchini Lelli 
                     Elaine Cristina Faria Abrahão-Machado; José Alexandre Mendonça; Ana Carolina Belini Bazán Arruda; Luciana Bertoldi Nucci; Marcel Alex Soares dos Santos 
                     Mara Huffenbaecher Giavina-Bianchi; Cyro Festa-Neto; Jose Antonio Sanches; Monica La Porte Teixeira; Bernadette Cunha Waldvogel 
-                    Departamento de Dermatologia e Venereologia Ufuk University School of Medicine Ancara Turquia,Departamento de Dermatologia e Venereologia Hacettepe University Hospital Ancara Turquia
+                    Departamento de Dermatologia e Venereologia Ufuk University School of Medicine Ancara Turquia, Departamento de Dermatologia e Venereologia Hacettepe University Hospital Ancara Turquia
                     Amanda Hertz; Luna Azulay-Abulafia; Adriana Paulino do Nascimento; Cintya Yumi Ohara; Fabio Chigres Kuschnir; Luís Cristovão Porto 
                     Leyla Baykal Selcuk; Mursel Sahin; Deniz Aksu Arıca; Asım Orem; Zeynep Karaca Ural; Savaş Yaylı 
                     Ezgi Aktaş Karabay; Aslı Aksu Çerman 
                     Eliane Aparecida Silva; Marcia Regina Miras Bosco; Rejane Rojas Lozano; Ana Carla Pereira Latini; Vânia Nieto Brito de Souza 
-                    Sayuri Aparecida Hirayama; Cezar Arthur Tavares Pinheiro; Isabelle Maffei Guarenti; Danise Senna Oliveira 
+                    Sayuri Aparecida Hirayama; Cezar Arthur Tavares Pinheiro; Isabelle Maffei Guarenti; Danise Senna Oliveira
                     Raissa de Lima Gadelha; Renata da Silveira Rodrigues Paiva; Esther Bastos Palitot; Joanne Elizabeth Ferraz da Costa 
                     Mariana Carvalho Costa; Odil Garrido Campos de Andrade; Lethícia de Castro Pereira; Izelda Maria Carvalho Costa 
                     Valeria Romero Godofredo; Milvia Maria Simões e Silva Enokihara; Jane Tomimori; Marilia Marufuji Ogawa 
@@ -4712,7 +4712,6 @@
                     Themis Getsos Colla, Louise Lovatto, Rodrigo Pereira Duquia 
                     Thais Jerez Jaime, Beatriz Alessi Rodrigues, Tatiana Jerez Jaime, Maria Lourdes Peris Barbo, Deborah Regina Cunha Simis 
                     Paolo D. Pigatto, Chiara Marsili, Gianpaolo Guzzi 
-                    
                     Eduardo M. De Capitani, Elemir M. de Souza, Ronan J. Vieira, Paulo R. de Madureira 
                     Ediléia Bagatin 
                     Ricardo José de Mendonça, Joaquim Coutinho-Netto 
@@ -5338,7 +5337,6 @@
                     MAURÍCIO ZANINI RIBEIRO, CLAUDIO WULKAN, FRANCISCO MACEDO PASCHOAL, MARISA HOMEM DE MELLO MACIEL, CARLOS D'APPARECIDA S. MACHADO FILHO 
                     NORMA TIRABOSCHI FOSS 
                     JOÃO LUIZ DORNELLES BASTOS, RODRIGO PEREIRA DUQUIA 
-                    
                     HÉLIO AMANTE MIOT 
                     ROBERTO RHEINGANTZ DA CUNHA FILHO, HIRAM LARANGEIRA DE ALMEIDA JR., ANDRÉ DA SILVA CARTELL 
                     VANESSA OLIVEIRA ZAGNE BAUK, ALINE MESQUITA ASSUNÇÃO, RENATA FERREIRA DOMINGUES, NURIMAR CONCEIÇÃO FERNANDES, TULLIA CUZZI MAYA, JUAN MANUEL PIÑEIRO MACEIRA 
@@ -5513,7 +5511,6 @@
                     HIRAM LARANGEIRA DE ALMEIDA JR., HEITOR ALBERTO JANNKE 
                     JOSÉ MARCOS PEREIRA 
                     MARIA VALÉRIA ROBLES VELASCO, MARIA ELIZETTE RIBEIRO, VALCINIR BEDIN, FERNANDA RUMI OKUBO, DENISE STEINER 
-                    
                     RUBEM DAVID AZULAY 
                     JOSENILDO RODRIGUES DE OLIVEIRA, VIVIANE TOM MAZOCCO, LÚCIA HELENA FÁVARO ARRUDA 
                     ARLES MARTINS BROTAS, LUNA AZULAY ABULAFIA, ANDREA CUNHA VOLTA, LENINHA VALÉRIO DO NASCIMENTO 
@@ -6098,3 +6095,205 @@
     Bárbara Elias do Carmo Barbosa, Priscila Neri Lacerda, Luana Moraes Campos, Mariângela Esther Alencar Marques, Silvio Alencar Marques, Luciana Patrícia Fernandes Abbade
         Marcella Oliveira Menezes Quitete de Campos, Giovanna Abrantes Pimenta de Figueiredo, Allyson Capobiango Evangelista, Alexander Richard Bauk
     Lucia Armillas-Lliteras, Maribel Iglesias-Sancho, Arcadi Altemir, Juan Antonio Moreno Romero
+Sílvio Alencar Marques, Ana Maria Ferreira Roselino, Hiram Larangeira de Almeida Jr., Luciana P. Fernandes Abbade
+Paulo Ricardo Martins Souza, Letícia Dupont, Gabriela Mosena, Manuela Lima Dantas, Lucas Abascal Bulcão
+Giovana Viotto Cagnon Brandão, Elizandra Gomes Pereira, Gabriela Roncada Haddad, Luciane Donida Bartoli Miot, Silvio Alencar Marques, Hélio Amante Miot
+Jiahui Hu, Xinyue Zhang, Lihong Zhao, Qiang Zhao, Songmei Geng
+Natália Ribeiro de Magalhães Alves, Patrícia Shu Kurizky, Licia Maria Henrique da Mota, Cleandro Pires de Albuquerque, Juliana Tomaz Esper, Aridne Souza Costa Campos, Vitoria Pereira Reis, Henrique Metzker Ferro, Natalia Gil-Jaramillo, Joaquim Pedro Brito-de-Sousa, Luana Cabral Leão Leal, Otávio de Toledo Nóbrega, Carla Nunes de Araújo, Agenor de Castro Moreira dos Santos Júnior, Gladys Aires Martins, Olindo Assis Martins Filho, Ciro Martins Gomes
+Vanessa Martins Barcelos, Everton Carlos Siviero do Vale, Marcelo Grossi Araujo, Flávia Vasques Bittencourt
+Melissa de Almeida Corrêa Alfredo, Juliano Vilaverde Schmitt, Anna Carolina Miola, Simone de Pádua Milagres, Joel Carlos Lastoria
+Loren Giagio Cavalcante, Rejane Aparecida Rodrigues Domingues, Batista de Oliveira Junior, Marco Antônio Rodrigues Fernandes, Eduardo Carvalho Pessoa, Luciana Patrícia Fernandes Abbade
+Barbara Hartung Lovato, Leticia Fogagnolo, Elemir Macedo de Souza, Larissa Juliana Batista da Silva, Paulo Eduardo Neves Ferreira Velho, Maria Leticia Cintra, Fernanda Teixeira
+Luciana Paula Samorano, Kelly Cristina Gomes Manfrere, Naiura Vieira Pereira, Roberto Takaoka, Neusa Yuriko Sakai Valente, Mirian Nacagami Sotto, Luiz Fernando Ferraz Silva, Maria Notomi Sato, Valeria Aoki
+Luiza de Castro Fernandes, Ana Carolina Belini Bazan Arruda, Lisa Gava Baeninger, Debora Pedroso Almeida, Danilo Villagelin
+Hélio Amante Miot, Paulo Ricardo Criado, Caio César Silva de Castro, Mayra Ianhez, Carolina Talhari, Paulo Müller Ramos
+Juliana Casagrande Tavoloni Braga, Carlos B. Barcaui, Ana Maria Pinheiro, Ana Maria Fagundes Sortino, Cristina Martinez Zugaib Abdalla, Gabriella Campos-do-Carmo, Gisele Gargantini Rezze, Juan Pineiro-Maceira, Lilian Licarião Rocha, Marcus Maia, Bianca Costa Soares de Sá
+Francisca Kinzel-Maluje, Daniela González-Godoy, Pablo Vargas-Mora, Pablo Muñoz
+Glaysson Tassara Tavares, Isabela Boechat Morato, Alberto Julius Alves Wainstein
+Ana Llull-Ramos, Juan Garcías-Ladaria, Inés Gracia-Darder, Aniza Giacaman
+Camilo Arias-Rodriguez, Juan Guillermo Hoyos-Gaviria, Ana María Muñoz-Monsalve, Alejandro Hernandez-Martinez
+Rafael Oliveira Amorim, Alana Luísa Calixto Carlos da Silva, Camila Arai Seque, Adriana Maria Porro
+Juan-Manuel Morón-Ocaña, Ana-Isabel Lorente-Lavirgen, Isabel-María Coronel-Pérez, María-Luisa Martínez-Barranca
+Camila Schlang Cabral da Silveira, Renata Miguel Quirino, Carlos Baptista Barcaui, Luna Azulay-Abulafia
+Mai Endo, Toshiyuki Yamamoto
+Luana Amaral de Moura, Lucia Martins Diniz, Emilly Neves Souza, Lucas Amaral de Moura
+Jade Cury-Martins, Marcelo A. Giannotti, Denis Miyashiro, Juliana Pereira, José Antonio Sanches
+Laura Bertanha, Cristina Diniz Borges Figueira de Mello, Ingrid Iara Damas, Rafael Fantelli Stelini, Nilton Di Chiacchio, Maria Letícia Cintra
+Ingrid Rocha Meireles Holanda, Priscila Neri Lacerda, Carolina Nunhez da Silva, Rosangela Maria Pires de Camargo, Anna Carolina Miola, Silvio Alencar Marques
+Patricia Guadalupe Mendoza-Del Toro, Arturo Robles-Tenorio, Víctor Manuel Tarango-Martínez
+Ana Gusmão Palmeiro, Maria João Gonçalves, Cristina Amaro, Isabel Viana
+Dídac Marín-Piñero, M. Ángeles Sola-Casas, Noelia Perez-Muñoz
+Mariani Magnus da Luz Andrade, Guilherme Ladwig Tejada, Juliano Peruzzo, Renan Rangel Bonamigo
+Hiram Larangeira de Almeida Jr., Junior Wieczorek, Mahony Santana, Celina Leite
+Tatiana Ferreira França, João Renato Vianna Gontijo, Eduardo Ferraz Veloso Junior, Enaldo Melo de Lima
+Samir Arbache, Sergio Henrique Hirata
+Renata Heck, Renan Rangel Bonamigo
+Silvio Alencar Marques, Ana Maria Roselino, Hiram Larangeira de Almeida Jr, Luciana P. Fernandes Abbade
+Ricardo Romiti, André Luís da Silva Hirayama, Adriana Maria Porro, Heitor de Sá Gonçalves, Luciane Donida Bartoli Miot, Sandra Maria Barbosa Durães, Silvio Alencar Marques
+Azza Gaber Antar Farag, Eman Abd-Elfatah Badr, Banan Mohamed Gamal Abd-Elaty, Nada Farag Elnaidany, Mai Medhat Mohamed Ghanem
+Jin-Yi Tang, Mei-Ling Chen, Mei Wan, Jin-Yu Wei, Tian Qian, Yu-Kun Fan, Zhi Yang, Jian Fu, Jian Li
+Marta Regina Machado Mascarenhas, Mariana de Castro Oliveira, Luise Fonseca de Oliveira, Andréa Santos Magalhães, Paulo Roberto Lima Machado
+Dominga Peirano, Sebastián Vargas, Leonel Hidalgo, Francisca Donoso, Eugenia Abusleme, Felipe Sanhueza, Consuelo Cárdenas, Katherine Droppelmann, Juan Camilo Castro, Pablo Uribe, Pablo Zoroquiain, Cristian Navarrete-Dechent
+Yingjie Zhang, Yiru Wang, Shuping Guo, Hongzhou Cui
+Kamilla Mayr Martins Sá, Juliana Cavaleiro Rodrigues, Lígia Borges da Silva, Giovanna Marcılio Santos, Mileny Esbravatti Stephano Colovati, Ana Luiza Cabrera Martimbianco
+Shiyang Li, Xianwei Cao, Zhuxiu Guo, Jian Wang, Jianbo Tong, Zhibin Zhang
+Yuehua Sun, Ruiqun Qi, Ze Wu, Xiaodong Zhang, Jun Niu
+Bruna Ossanai Schoenardie, Rodrigo Oliveira Almeida, Thaísa Hanemann, Arthur Ossanai Schoenardie, André Lucas Ribeiro, Juliana Catucci Boza
+Lucas Campos Prudente Tavares, Lívia de Vasconcelos Nasser Caetano, Mayra Ianhez
+Ricardo Romiti, Renata Ferreira Magalhães, Gleison Vieira Duarte
+Thaís Barros Felippe Jabour, José Paulo Ribeiro Júnior, Alexandre Chaves Fernandes, Cecília Mirelle Almeida Honorato, Maria do Carmo Araújo Palmeira Queiroz
+Carolina Gonçalves Contin, Gustavo de Sá Menezes Carvalho, Guilherme Camargo Julio Valinoto, Silvia Assumpção Soutto Mayor, John Verrinder Veasey
+Misaki Kusano, Toshiyuki Yamamoto
+Anwei Chen, Faliang Ren
+Miguel Santos-Coelho, Joana Alves Barbosa, Margarida Moura Valejo Coelho, Alexandre João
+Takashi Ito, Toshiyuki Yamamoto
+Irving Llibran Reyna-Rodríguez, Valeria F. Garza-Davila, Jorge Ocampo-Candiani, Sonia Chavez-Alvarez
+Teng Chao Wei, Xian Mei Lu, Fang Fang Bao, Hong Liu
+Diana Isabel Conde Hurtado, Andrea Paola Céspedes Pérez, Ricardo Flaminio Rojas López
+Mai Endo, Toshiyuki Yamamoto
+Ana María Palma, Tamara Gracia-Cazaña, Carmen Ruiz de la Cuesta-Martín, Yolanda Gilaberte
+Laura Serra-García, Cristina Carrera, Priscila Giavedoni, Constanza Riquelme-Mc Loughlin
+Francisca Reculé, Juana Benedetto, Catalina Silva-Hirschberg, Raúl Cabrera, Alex Castro
+Emre Zekey, Seher Darakcı
+Astrid Herzum, Ehab Garibeh, Lodovica Gariazzo, Corrado Occella, Gianmaria Viglizzo
+Hiram Larangeira de Almeida Jr., Luiz Roberto Kramer Costa, Augusto Scott da Rocha
+Esperanza Welsh, Jesus Alberto Cardenas-de la Garza, José Alberto García-Lozano, Diana Paola Flores-Gutierrez
+Maraya de Jesus Semblano Bittencourt, Pedro Carneiro Marinho, Thereza Christina Frade, Gabriela Athayde Amin, Lorena Silva de Carvalho, Lívia Eloi Castro Santos
+Ivanka Miranda de Castro Martins, Ana Cláudia Cavalcante Espósito, Hélio Amante Miot
+Maurício Mota de Avelar Alchorne, Katleen da Cruz Conceição, Leonardo Lora Barraza, Marilda Aparecida Milanez Morgado de Abreu
+Ting Huang, Ting Ding, Liqing Ding, Shasha Xie, Xiaojing Li, Qiming Meng, Xiaomeng Wu, Hui Luo, Hongjun Zhao
+Samantha Vernaschi Kelmann, Bruno de Oliveira Stephan, Silvia Maria de Macedo Barbosa, Rita Tiziana Verardo Polastrini, Zilda Najjar Prado de Oliveira, Maria Cecília Rivitti-Machado, Gustavo Marquezani Spolador, Rachel Sayuri Honjo, Ken Saida, Naomichi Matsumoto, Chong Ae Kim
+Ayşegül Başak Akadam-Teker, Burak Akşan
+Kyung-Hwa Nam, Sang-Kyung Lee, Il-Jae Lee, Jin Park, Seok-Kweon Yun
+Tugba Atci, Dilay Yerlioğlu Ak, Can Baykal
+Chan I. Thien, Vanessa Rolim Bessa, Isadora Zago Miotto, Luciana Paula Samorano, Maria Cecília Rivitti-Machado, Zilda Najjar Prado de Oliveira
+Vladimir Sánchez, Emilio Carpio, Vicente Eloy Fardales, Belkys Martínez, Ana Iris Arias, Elizabeth Brito, Niurka Bermudez, Yoel Rodríguez
+Marcel Arakaki Asato, Francisco Alves Moares Neto, Marcelo Padovani de Toledo Moraes, Juliana Polizel Ocanha-Xavier, Luiz Carlos Takita, Mariangela Esther Alencar Marques, José Cândido Caldeira Xavier-Júnior
+Santiago Andrés Ariza Gómez, Paula Alejandra Dubeibe Abril, Oscar Enrique Niebles Sincelejo, Henry Santiago Leal Reina
+Marco Rocha, Franz Barnes, Jemena Calderón, Leonel Fierro-Arias, Carlos Eduardo Montealegre Gomez, Carla Munoz, Obregón Jannell, Patricia Troieli
+Zi Wan, Jiangyuan Huang, Xiaojie Ou, Shuang Lou, Jianji Wan, Zhu Shen
+Cíntia Barreto de Oliveira Varela, Cristianne Kalinne Santos Medeiros, Jabes Gennedyr da Cruz Lima, Éricka Janine Dantas da Silveira, Patrícia Teixeira de Oliveira
+Rosana Lazzarini, Bruna Barravieira Masselli, Mariana de Figueiredo da Silva Hafner
+Bruna Ossanai Schoenardie, Gabriela Fortes Escobar, Jéssica Pauli Damke, Gabriel Cardozo Müller, Renan Rangel Bonamigo
+Hiram Larangeira de Almeida Jr., Debora Sarzi Sartori, Felipe Yusuke Sato Shinzato, Samuel da Silva Julião, Sílvia Saueressig
+Marcela Scárdua Sabbagh de Azevedo, Antônio Chambo Filho, Lucia Martins Diniz, July Barcellos Quimquim, Vickie White Loureiro Souza, Luana Amaral de Moura
+Patrícia Amoedo, Ana Grangeia, Lígia Peralta, Alberto Mota
+Shohei Igari, Miyuki Yamamoto, Nobuyuki Kikuchi, Mikio Ohtsuka, Toshiyuki Yamamoto
+Ana Flávia Teixeira de Abreu, Rebecca Perez de Amorim, Pedro Marciano de Oliveira, Marcelo Padovani de Toledo Moraes, Silvio Alencar Marques
+Larissa Helena Marques Carrai, Elaine Cristina Faria Abrahão Machado, Luiza Castro, Livia Matida Gontijo
+Cristina Vélez Arroyave, Laura Carvajal Betancur, Ángela María Londoño García, Leonard Pacheco Peñaranda
+Thais Florence Duarte Nogueira, Stefanie Gallotti Borges Carneiro, Larissa Jacom Abdulmassih Wood, José Roberto Pereira Pegas
+Luciane Zagonel, Mônica Vannucci Nunes Lipay, Glaucos Ricardo Paraluppi, Célia Antônia Xavier de Moraes Alves
+Yu Zhu, Wei Wu
+Camila Schlang Cabral da Silveira, Luiz Felipe Oliveira Santos, Marcella Leal Novello D’Elia, Daniel Lago Obadia
+Roberto Bueno Filho, Juliana Idalgo Feres, Natalia de Paula, Sebastião Antonio de Barros Júnior, Ana Maria Roselino
+Cristiana Ludwig Schneider Longo, Flávio Marcondes Hercules, Fábio Silva de Azevedo, Adriana Lúcia Pires Ferreira, Rosane Orofino-Costa
+José Ramos, António Magarreiro Silva, Ana Marta António, João Alves
+Guilherme Muzy
+Lele Chen, Wenwen Wang, Sen Zhou, Zhiming Li
+Hinpetch Daungsupawong, Viroj Wiwanitkit
+Silvio Alencar Marques, Ana Maria Roselino, Hiram Larangeira de Almeida Junior, Luciana Patrícia Fernandes Abbade
+David Chalarca-Cañas, Mario A. Caviedes-Cleves, Luis A. Correa-Londoño, Juan Pablo Ospina-Gómez, Margarita M. Velásquez-Lopera
+Wenying Zhong, Wei Li, Guangsheng Wu
+Erman Bozali, Duygu Yalınbaş Yeter, Mustafa Tosun, Anıl Selim Apa
+Natália Parenti Bicudo, Carla Maria Ramos Germano, Roberta Teixeira de Moraes, Lucimar Retto da Silva de Avó, Rosalie E. Ferner, Débora Gusmão Melo
+Amanda Soares Teixeira, Ivanka Miranda de Castro Martins, Anna Carolina Miola, Hélio Amante Miot
+Sai Chen, Hongxia Chen, Xu Wang, Dongmei Zhang, Li Zhang, Jiawei Cheng, Qi Zhang, Zhixiang Hua, Xu Miao, Jian Shi
+Edinson López, Raúl Cabrera, Cristóbal Lecaros
+Anahi Belatti, Florencia Bertarini, Virginia Pombo, Luis Mazzuoccolo, Damian Ferrario
+Mariana Vieira Martins Sampaio Drummond, Jules Rimet Borges, Ana Maria Quinteiro Ribeiro, Bárbara Alvares Salum Ximenes
+Flávia de Oliveira Valentim, Anna Carolina Miola, Hélio Amante Miot, Juliano Vilaverde Schmitt
+Rogério Nabor Kondo, Betina Samesima e Singh, Milene Cripa Pizatto de Araújo, Victória Prudêncio Ferreira, Jessica Almeida Marani, Airton dos Santos Gon
+Daniel do Prado, Marianna Boia-Ferreia, Hanna Camara da Justa, Andrea Senff-Ribeiro, Sérgio Lunardon Padilha
+André Pinho, Ana Brinca, Carolina Figueiredo, Duarte Flor, Ricardo Vieira
+Amanda Gabay Moreira, Antonio Vitor da Silva Freitas, Carla Andrea Avelar Pires
+Jessica Lana Conceição e Silva Baka, Tauana Ogata Coelho da Rocha, Marcella Soares Pincelli, Luciana Paula Samorano, Maria Cecília da Matta Rivitti-Machado, Zilda Najjar Prado de Oliveira
+Yao Zhu, Yi-Ming Fan, Yan-Xia Cai, Yong-Hua Chen, Fang Qiu
+Andrezza Telles Westin, Sebastião Antônio de Barros Junior, Cacilda da Silva Souza
+Ru Dai, Tingting Wang, Xianjie Wu
+Bruno Simão dos Santos, Maria Augusta Pires Maciel, Neusa Yuriko Sakai Valente
+Camino Prada-García, Asunción González-Morán, Xenia Pérez-González
+Rebecca Perez de Amorim, Ana Flávia Teixeira de Abreu, Aline Garcia Lutz, Vinícius Cardoso Nóbrega, Ivanka Miranda de Castro, Hélio Amante Miot
+Misaki Kusano, Maki Takada, Natsuko Matsumura, Toshiyuki Yamamoto
+Héctor Chiang Wong, Pilar Martínez Sánchez, María del Carmen González Guzmán
+Bianca Cristina Dantas, Luana Rytholz Castro, Natália Scardua Mariano Alves, Bethânia Cabral Cavalli Swiczar, Neusa Yuriko Sakai Valente
+John Verrinder Veasey, Victória Cerqueira Elia, Ana Estela Ribeiro, Rute Facchini Lellis
+Luiz Augusto Fabricio de Melo Garbers, Tissiana Marques de Haes, Cacilda da Silva Souza
+Raíssa Rodriguez Melo, Rita Fernanda Cortez de Almeida, Luciana Rodino Lemes, Sidney Frattini Junior, Paulo Müller Ramos, Daniel Fernandes Melo
+Svetlana Popadic, Igor Kapetanovic, Aleksandra Sokic-Milutinovic
+John Verrinder Veasey, Gustavo de Sá Menezes Carvalho, Guilherme Camargo Julio Valinoto
+Bárbara Vieira Granja, Patrícia Amoedo, Nuno Preto Gomes, Catarina Costa, Filomena Azevedo, Sofia Magina
+Hiram Larangeira de Almeida Junior, Vitor Dias Furtado, Viviane Siena Issaacson, Ana Letícia Boff
+Juan-Manuel Morón-Ocaña, Isabel-María Coronel-Pérez, Elena-Margarita Rodríguez-Rey
+Adriana Maria Porro, Camila Arai Seque, Denise Miyamoto, Diego Vanderlei Medeiros da Nóbrega, Milvia Maria Simões e Silva Enokihara, Claudia Giuli Santi
+Beatriz Azevedo Nunes, Ana Karolina Ferreira Gonçalves Romano, Mariana Aparecida Pasa Morgan, Alice Andrade Gonçalves, Laís Faria Masulk Cardozo, Luiz Gustavo Dufner de Almeida, Luciana Amaral Haddad, Ana Chrystina de Souza Crippa, Sergio Antonio Antoniuk, Kerstin Taniguchi Abagge
+Ariany Tomaz de Aquino Saran Denofre, Carolina Meloni Stecca, Juliana Yumi Massuda Serrano, Thais Helena Buffo, Rachel Polo Dertkigil, Renata Ferreira Magalhães
+Sebastian Vernal, Tamiris Amanda Julio, Fernando Henrique Alves, Aline Turatti, Eduardo Antonio Donadi, Ana Maria Roselino
+T.R. Bellott, Flávio Barbosa Luz, Anna Karoline Fausto da Silva, Rafael Brandão Varella, Mayra Carrijo Rochael, Rafaela Elvira Rozza-de-Menezes, Luciana Pantaleão
+Laura Bertanha, Ingrid Iara Damas, Rafael Fantelli Stelini, Maria Letícia Cintra, Nilton Di Chiacchio
+Paulo Ricardo Criado, Mayra Ianhez, Roberta Fachini Jardim Criado, Juliana Nakano, Daniel Lorenzini, Hélio Amante Miot
+Patrícia Amoedo, Gilberto Rosa, Teresa Baudrier, Ana Filipa Pedrosa, Maria João Cruz
+Lucas Pires Ventura, Mario Cezar Pires, Adilson da Costa
+Felipe Miguel Farion Watanabe, Lia Dias Pinheiro Dantas, Renan Rangel Bonamigo
+Ariany Tomaz de Aquino Saran Denofre, Thais Helena Buffo, Rafael Fantelli Stelini, Maria Leticia Cintra, Renata Ferreira Magalhães
+Baltazar Dias Sanabria, Yuri Chiarelli Perdomo, Hélio Amante Miot, Paulo Müller Ramos
+João Guilherme Pessôa Léo, Camila Bocchi Siqueira, Jorgeth de Oliveira Carneiro da Motta, Ingrid Faber de Vasconcellos, Yuna Ribeiro de Araujo, Felipe Von Glehn, Patrícia Shu Kurizky, Ciro Martins Gomes, Cláudia Porto, Maria Stella Cochrane Feitosa
+Lucas Braga Leite, Flávia Regina Ferreira, Márcia Lanzoni de Alvarenga Lira
+Bruno Simão dos Santos, Eduardo César Diniz Macêdo, Bruna Nascimento Arruda Scabello, Patrícia Porto de Oliveira Grossi, Neusa Yuriko Sakai Valente
+Juan-Manuel Morón-Ocaña, Amalia Pérez-Gil
+Vânia Olívia Coelho de Almeida, Ana Carolina Monteiro de Camargo, Meire Soares de Ataíde, Romes José Tristão, Tullio Novaes Silva
+Alba Navarro-Bielsa, Daniel Ruiz Ruiz-de-Larramendiz, Pilar Abenia-Usón, Tamara Gracia-Cazaña, Yolanda Gilaberte
+Carlos Barrera-Ochoa, Luis Enrique Cano-Aguilar, Hector Cantú-Maltos, Hector Proy-Trujillo, Nixma Eljure-López, María Elisa Vega-Memije
+Bruno de Carvalho Fantini, Cecilia Anatriello dos Santos, Sebastião Antônio de Barros Junior, Cacilda da Silva Souza
+Kinuko Irie, Toshiyuki Yamamoto
+Luciane Francisca Fernandes Botelho, Selma Hélène, Carolina Gonçalves Contin Proença, Silvia Assumpção Soutto Mayor
+Guilherme Holanda Bezerra, Paulo Eduardo Neves Ferreira Velho, Andréa Fernandes Eloy da Costa França
+Teresa Alonso-de-León, Carlos Barrera-Ochoa, Luis Enrique Cano-Aguilar, Katia Lizette Munguia-Galeano, Jorge Felipe Flores-Ochoa, María Elisa Vega-Memije
+Misaki Kusano, Ryuto Mukaiyama, Toshiyuki Yamamoto
+Elena Lucía Pinto-Pulido, Isabel Polo-Rodríguez, Marta González-Cañete, Ileana Medina-Expósito, María Dolores Vélez-Velázquez, Susana Medina-Montalvo
+Daniela de Abreu e Silva Martinez, Amanda de Freitas Sampaio Periquito, Graciela Galva Roa, João Pedro Lupi, Curt Mafra Treu, Omar Lupi
+Cristóbal Lecaros, Gabriela Coulon, Francisca Reculé, Alex Castro, Constanza Del Puerto
+Francisco José Rodríguez-Cuadrado, Gaston Roustan-Gullón, Dolores Suárez-Massa, Mercedes Hospital-Gil
+Mayu Sato, Toshiyuki Yamamoto
+Hiram Larangeira de Almeida Jr, Augusto Scott da Rocha, Lilian Müller, Ana Letícia Boff
+Sandra M.B. Durães, Nathália R. Santos, Clarissa N. Batzner, Fernando G.M. Cerqueira
+Ivanka Miranda de Castro Martins, Anna Carolina Miola, Luiz Eduardo Fabrício de Melo Garbers, Hélio Amante Miot
+Cíntia Barreto de Oliveira Varela, Cristianne Kalinne Santos Medeiros, Jabes Gennedyr da Cruz Lima, Éricka Janine Dantas da Silveira, Patrícia Teixeira de Oliveira
+
+
+Silvio Alencar Marques, Ana Maria Ferreira Roselino, Hiram Larangeira de Almeida Jr, Luciana Patrícia Fernandes Abbade
+Laura Bertanha, Leandro Fonseca Noriega, Nilton Gióia Di Chiacchio, Adriana Matter, Nilton Di Chiacchio
+Funda Erduran, Esra Adışen, Yıldız Hayran, Güneş Gür Aksoy, Erkan Alpsoy, Leyla Baykal Selçuk, Sibel Doğan Günaydın, Ayça Cordan Yazıcı, Ayşe Öktem, Malik Güngör, Elif Afacan, Deniz Devrim Kuşçu, Leyla Elmas, Kübra Aydoğan, Dilek Bayramgürler, Evren Odyakmaz Demirsoy, Melih Akyol, Rukiye Yasak Güner, Hilal Kaya Erdoğan, Ersoy Acer, Tulin Ergun, Savaş Yaylı, Ferhan Bulut, Esra Saraç, Akın Aktaş
+Yuting Hu, Ying Li, Wei Yan, Yu Zhou
+Dilara İlhan Erdil, Ayşe Esra Koku Aksu, Vefa Aslı Turgut Erdemir, Duygu Erdil, Cem Leblebici, Asude Kara Polat
+Ersoy Acer, Hilal Kaya Erdoğan, Esra Ağaoğlu, Hatice Baştürk, Muzaffer Bilgin, Zeynep Nurhan Saraçoğlu
+Lucas Kieling, Ana Terezinha Konzen, Rafaela Koehler Zanella, Denis Souto Valente
+Hiram Larangeira de Almeida Junior, Thales Moura de Assis, Eduardo Camargo Faria, Luiz Roberto Kramer Costa, Berenice Marques Ibaldo
+Lola Kuperman Wilder, Valeria Orsi, Gonzalo Chebi, Maria Agustina Balague, Luciana Cabral Campana
+Aline Donati, Isabelle I. Hue Wu
+Dan Hartmann Schatloff, Catalina Retamal Altbir, Fernando Valenzuela
+Paulo Ricardo Criado, Hélio Amante Miot, Roberto Bueno-Filho, Mayra Ianhez, Roberta Fachini Jardim Criado, Caio César Silva de Castro
+Elinah Narumi Inoue, Felipe de Paula Saboia, Amanda Hertz, Marcia Olandoski, Dâmia Kuster Kaminski Arida
+Ana Flávia Teixeira de Abreu, Marina Oliveira Dias, Mayla Martins Conti Barbosa, Rebecca Perez de Amorim, Hélio Amante Miot, Ana Cláudia Cavalcante Espósito
+Miguel Mansilla-Polo, Antonio Sahuquillo-Torralba, Conrad Pujol-Marco, Guillermo Bargues-Navarro, Rafael Botella-Estrada
+Melissa de Almeida Corrêa Alfredo, Ingrid Rocha Meireles Holanda, Daniel Pinho Cassiano, Ana Cláudia Cavalcante Espósito, Paula Basso Lima, Hélio Amante Miot
+Izadora Fernanda Veiga de Jesus Costa, Deyla Duarte Carneiro Vilela, Bruno Cunha Pires, Jener Gonçalves de Farias, Valéria Souza Freitas, Jean Nunes dos Santos
+Cecília Mirelle Almeida Honorato, Giovanna Gelli Carrascoza, Nubia Marrer Abed, Fernanda Gonçalves Moya
+Maria Laura Malzoni Souza, Hélio Amante Miot, José Eduardo Martinez
+Ludmilla Cardoso Gomes, Mariana Figueiroa Careta, Isabelle I. Hue Wu, Vivian Barzi Loureiro, Luís Antonio Ribeiro Torezan
+Aline Guimarães Grana, Heitor de Sá Gonçalves, Carlos Baptista Barcaui, Carolina Talhari, Hélio Amante Miot
+Pablo López Sanz, Noelia de Sande Rivera, Claudia Guerrero Ramírez, Silvia Manso Córdoba, Carlota Rodríguez de Vera Guardiola, Eduardo Escario Travesedo
+Yukina Watanabe, Tomoko Hiraiwa, Mikio Ohtsuka, Toshiyuki Yamamoto
+İrfan Yavaşoğlu, Atakan Turgutkaya, Canten Tataroğlu, Ali Zahit Bolaman
+Ingrid Priscila Ribeiro Paes Ferraz, Gustavo Carvalho, Juliana Casagrande Tavoloni Braga, Rafaela Brito de Paula, André Molina
+Athos Paulo Santos Martini, Ariel Córdova Rosa, Marcelo Rigatti, Gabriella Di Giunta Funchal, Matheus Hariel Colin Torres, Matheus Alves Pacheco
+Rebecca Perez de Amorim, Maria Vitória Yuka Messias Nakata, Vitória Gabrielle De Paula Gonçalves, Ivanka Miranda de Castro, Gabriela Roncada Haddad, Luciana Patrícia Fernandes Abbade
+Kelielson Cardoso de Macêdo Cruz, Daniela de Abreu e Silva Martinez, Danielle Carvalho Quintella, Tullia Cuzzi, Sergio Duarte Dortas Junior, Solange Oliveira Rodrigues Valle
+Huizhong Wang, Jingru Sun
+Tatiana Ordoñez, Marina Ruf, Valeria Angles, Gabriel Brau, Damián Ferrario, Luis Mazzuoccolo
+Elisa Scandiuzzi Maciel, Masiel Garcia Fernandez, Milvia Maria Simões e Silva Enokihara, Sérgio Henrique Hirata
+Natalia Scardua Mariano Alves, Bianca Cristina Dantas, Luana Rytholz Castro, Bethânia Cabral Cavalli Swiczar, Neusa Yuriko Sakai Valente
+Kananda Kesye Sousa Nunes, Carlos Alberto Chirano Rodrigues, Antonio Pedro Mendes Schettini, Sinésio Talhari
+Alexandro Bonifaz, Andrés Tirado-Sánchez, Denisse Vázquez-González, Javier Araiza, Luis Miguel Moreno-López, Gloria M. González, David Chandler
+Antoine Communie, Isabelle Valo, Patrick Soulié, Xavier Grimaux
+Kai-Yi Zhou, Qian Ye, Sheng Fang
