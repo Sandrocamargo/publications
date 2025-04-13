@@ -29,12 +29,12 @@ The detailed results, including the metrics for all authors, are available at [c
 
 Images, in PDF format, are as follows:
 - [rbc-10+-crop](https://github.com/Sandrocamargo/publications/blob/main/rbc25/rbc-10%2B-crop.pdf): It contains only the authors who are in the ranking of top authors, along with their respective collaborations.
-- [comunidade1-completa-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/rbc25/com1-crop.pdf): All authors of the largest community.
-- [comunidade2-completa-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/rbc25/com2-crop.pdf): All authors of the second largest community.
-- [comunidade3-completa-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/rbc25/com3-crop.pdf): All authors of the third largest community.
-- [comunidade4-completa-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/rbc25/com4-crop.pdf): All authors of the fourth largest community.
-- [comunidade5-completa-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/rbc25/com5-crop.pdf): All authors of the fifth largest community.
-- [comunidade6-completa-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/rbc25/com6-crop.pdf): All authors of the sixth largest community.
+- [comunidade1-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/rbc25/com1-crop.pdf): Top authors of the largest community.
+- [comunidade2-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/rbc25/com2-crop.pdf): Top authors of the second largest community.
+- [comunidade3-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/rbc25/com3-crop.pdf): Top authors of the third largest community.
+- [comunidade4-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/rbc25/com4-crop.pdf): Top authors of the fourth largest community.
+- [comunidade5-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/rbc25/com5-crop.pdf): Top authors of the fifth largest community.
+- [comunidade6-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/rbc25/com6-crop.pdf): Top authors of the sixth largest community.
 
 
 ## Copyright
