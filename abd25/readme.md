@@ -1,6 +1,6 @@
 ### Anais Brasileiros de Dermatologia: Who wrote this century-old history?
 
-This paper was published in Anais Brasileiros de Dermatologia, Volume X, Issue Y, available at [link](https://www.scielo.br/j/abd/grid).
+This paper was published in Anais Brasileiros de Dermatologia, Volume 100, Issue Y, available at [link](https://www.anaisdedermatologia.org.br/en-anais-brasileiros-dermatologia-who-wrote-avance-S0365059625000303).
 
 This supplementary material provides the database used, detailed results, and the collaboration network figures.
 
@@ -57,4 +57,4 @@ This material is available by [Creative Commons](https://creativecommons.org/lic
 
 ## Citation
 
-Available soon.
+Grimaldi HC, Camargo SS. Anais Brasileiros de Dermatologia: who wrote this century-old history? An Bras Dermatol. 2025;100(2). doi:10.1016/j.abd.2025.02.001. Available from: https://www.anaisdedermatologia.org.br/en-anais-brasileiros-dermatologia-who-wrote-avance-S0365059625000303
