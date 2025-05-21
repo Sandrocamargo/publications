@@ -1,6 +1,6 @@
 ### Panorama Histórico dos Autores da Revista Brasileira de Cancerologia: Uma Análise Quantitativa
 
-This paper was published in Revista Brasileira de Cancerologia, Volume X, Issue Y, available at [link](https://rbc.inca.gov.br/index.php/revista/issue/archive).
+This paper was published in Revista Brasileira de Cancerologia, Volume 71, Issue 3, available at [link](https://rbc.inca.gov.br/index.php/revista/article/view/5189).
 
 This supplementary material provides the database used, detailed results, and the collaboration network figures.
 
@@ -52,4 +52,4 @@ This material is available by [Creative Commons](https://creativecommons.org/lic
 
 ## Citation
 
-Available soon.
+Grimaldi HC, Camargo S da S. Panorama Histórico dos Autores da Revista Brasileira de Cancerologia: uma Análise Quantitativa. Rev. Bras. Cancerol. [Internet]. 14º de maio de 2025 [citado 21º de maio de 2025];71(3):e-085189. Disponível em: https://rbc.inca.gov.br/index.php/revista/article/view/5189
