@@ -1,4 +1,4 @@
-### 55 Years of Ciência Rural Journal: Unveiling the Authors of a Legacy
+### Fithy five years of Ciência Rural journal: unveiling the authors of a legacy
 
 This paper was published in Revista Ciência Rural, Volume X, Issue Y, available at [link](https://www.scielo.br/j/cr/).
 
