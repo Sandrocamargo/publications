@@ -29,7 +29,7 @@ The annotation files will be available soon.
 For more information about the dataset, [click here](https://challenge.isic-archive.com/data/#2019).
 
 ## Results
-
+[click here](https://github.com/Sandrocamargo/publications/tree/main/rbc25a/results)
 
 ## Copyright
 
