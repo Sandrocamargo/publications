@@ -31,6 +31,10 @@ For more information about the dataset, [click here](https://challenge.isic-arch
 ## Results
 [click here](https://github.com/Sandrocamargo/publications/tree/main/rbc25a/results)
 
+![](./results/val_batch0_pred.jpg)
+![](./results/val_batch1_pred.jpg)
+![](./results/val_batch2_pred.jpg)
+
 ## Copyright
 
 This material is available by [Creative Commons](https://creativecommons.org/licenses/by/3.0/) License. Therefore, it can be freely reused as long as the source is cited.
