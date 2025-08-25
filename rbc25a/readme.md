@@ -8,8 +8,6 @@ This supplementary material provides the database used, detailed results, and th
 
 - [Introduction](#Introduction)
 - [Dataset](#Dataset)
-- [Detailed Results](#Detailed-Results)
-- [Images](#Images)
 - [Copyright](#Copyright)
 - [Citation](#Citation)
 
