@@ -25,19 +25,9 @@ The image set used is available [here](https://isic-challenge-data.s3.amazonaws.
 
 The training ground truth is available [here](https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2019_Training_Input.zip).
 
-<!--The annotation files are available [here](https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2019_Training_Input.zip).-->
+The annotation files will be available soon.
 
 For more information about the dataset, [click here](https://challenge.isic-archive.com/data/#2019).
-
-
-<--## Detailed Results
-
-#The detailed results, including the metrics for all authors, are available at [complete-ranking.xls](https://github.com/Sandrocamargo/publications/blob/main/abd25/complete-ranking.xls). -->
-
-<--## Images
-
-Images, in PDF format, are as follows:
-- [rbc-10+-crop](https://github.com/Sandrocamargo/publications/blob/main/rbc25/rbc-10%2B-crop.pdf): It contains only the authors who are in the ranking of top authors, along with their respective collaborations.-->
 
 ## Copyright
 
@@ -45,4 +35,4 @@ This material is available by [Creative Commons](https://creativecommons.org/lic
 
 ## Citation
 
-<--Grimaldi HC, Camargo S da S. Panorama Histórico dos Autores da Revista Brasileira de Cancerologia: uma Análise Quantitativa. Rev. Bras. Cancerol. [Internet]. 14º de maio de 2025 [citado 21º de maio de 2025];71(3):e-085189. Disponível em: https://rbc.inca.gov.br/index.php/revista/article/view/5189-->
+Soon.
