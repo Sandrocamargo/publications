@@ -25,7 +25,7 @@ The image set used is available [here](https://isic-challenge-data.s3.amazonaws.
 
 The training ground truth is available [here](https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2019_Training_Input.zip).
 
-#The annotation files are available [here](https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2019_Training_Input.zip).
+%%The annotation files are available [here](https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2019_Training_Input.zip).
 
 For more information about the dataset, [click here](https://challenge.isic-archive.com/data/#2019).
 
