@@ -8,6 +8,7 @@ This supplementary material provides the database used, detailed results, and th
 
 - [Introduction](#Introduction)
 - [Dataset](#Dataset)
+- [Results](#Results)
 - [Copyright](#Copyright)
 - [Citation](#Citation)
 
@@ -26,6 +27,9 @@ The training ground truth is available [here](https://isic-challenge-data.s3.ama
 The annotation files will be available soon.
 
 For more information about the dataset, [click here](https://challenge.isic-archive.com/data/#2019).
+
+## Results
+
 
 ## Copyright
 
