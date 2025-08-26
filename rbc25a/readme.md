@@ -2,7 +2,7 @@
 
 This paper was published in Revista Brasileira de Cancerologia, Volume X, Issue Y, available at [link](https://rbc.inca.gov.br/).
 
-This supplementary material provides the database used, detailed results, and the collaboration network figures.
+This supplementary material provides the data used and detailed results.
 
 ## Table of Contents
 
