@@ -51,7 +51,7 @@ Las imágenes, en formato PDF, son las siguientes:
 
 - [paises.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/paises.pdf): Contiene todos los países junto con sus respectivas colaboraciones.
 
-- [keywords.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/keywords.pdf): Contiene todas las palabras-clave junto con sus respectivas colaboraciones.
+- [keywords.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/keywords.pdf): Contiene únicamente las palabras-clave que están en el ranking, junto con sus respectivas colaboraciones.
 
 ## Derechos de autor
 
