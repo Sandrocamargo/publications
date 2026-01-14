@@ -6,10 +6,10 @@ Este material suplementario proporciona la base de datos utilizada, los resultad
 
 ## Tabla de contenidos
 
-- [Introducción](#Introduction)
-- [Conjunto de datos](#Dataset)
-- [Resultados detallados](#Detailed-Results)
-- [Images](#Images)
+- [Introducción](#Introducción)
+- [Conjunto de datos](#Conjunto-de-datos)
+- [Resultados detallados](#Resultados-detallados)
+- [Imágenes](#Imágenes)
 - [Copyright](#Copyright)
 - [Citation](#Citation)
 
