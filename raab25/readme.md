@@ -29,24 +29,29 @@ Los resultados detallados, incluidas las métricas de todos los autores, están 
 
 Las imágenes, en formato PDF, son las siguientes:
 
-- [autores.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores.pdf): It contains only the authors who are in the ranking of top authors, along with their respective collaborations.
+- [autores.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores.pdf): Contiene únicamente a los autores que están en el ranking de los principales autores, junto con sus respectivas colaboraciones.
 
 - [autores-com1.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com1.pdf): Todos los autores de la comunidad más grande.
 
-- [autores-com2.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com2.pdf): Todos los autores de la comunidad más grande.
+- [autores-com2.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com2.pdf): Todos los autores de la segunda comunidad más grande.
 
-- [autores-com3.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com3.pdf): Todos los autores de la comunidad más grande.
+- [autores-com3.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com3.pdf): Todos los autores de la tercera más grande.
 
-- [autores-com4.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com4.pdf): Todos los autores de la comunidad más grande.
+- [autores-com4.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com4.pdf): Todos los autores de la cuarta comunidad más grande.
 
-- [autores-com5.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com5.pdf): Todos los autores de la comunidad más grande.
+- [autores-com5.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com5.pdf): Todos los autores de la quinta comunidad más grande.
 
-- [autores-com6.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com6.pdf): Todos los autores de la comunidad más grande.
+- [autores-com6.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com6.pdf): Todos los autores de la sexta comunidad más grande.
 
-- [autores-com7.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com7.pdf): Todos los autores de la comunidad más grande.
+- [autores-com7.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com7.pdf): Todos los autores de la séptima comunidad más grande.
 
-- [autores-com8.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com8.pdf): Todos los autores de la comunidad más grande.
+- [autores-com8.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com8.pdf): Todos los autores de la octava comunidad más grande.
 
+- [instituciones.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/instituciones.pdf): Contiene todas las instituciones junto con sus respectivas colaboraciones.
+
+- [paises.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/paises.pdf): Contiene todos los países junto con sus respectivas colaboraciones.
+
+- [keywords.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/keywords.pdf): Contiene todas las palabras-clave junto con sus respectivas colaboraciones.
 
 ## Derechos de autor
 
