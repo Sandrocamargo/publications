@@ -19,7 +19,7 @@ Para más detalles sobre el estudio, sugerimos la lectura del artículo completo
 
 ## Conjunto de datos
 
-La base de datos utilizada en este estudio está disponible en el archivo [authors.txt](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores.txt). Este archivo contiene los nombres de los autores de todos los artículos publicados en el evento.
+La base de datos utilizada en este estudio está disponible en el archivo [metadata.json](https://github.com/Sandrocamargo/publications/blob/main/raab25/metadata.json). Este archivo contiene los nombres de los autores de todos los artículos publicados en el evento.
 
 ## Resultados detallados
 
