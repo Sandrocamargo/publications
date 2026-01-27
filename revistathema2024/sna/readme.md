@@ -28,17 +28,17 @@ The detailed results, including the metrics for all authors, are available at [a
 ## Images
 
 Images, in PDF format, are as follows:
-- [completa-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/completa-crop.pdf): It contains all the authors who have published in the event, along with their respective collaborations.
-- [5oumais-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/5oumais-crop.pdf): It contains only the authors who are in the ranking of top authors, along with their respective collaborations.
-- [comunidade1-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/comunidade1-crop.pdf): All authors of the largest community.
-- [comunidade2-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/comunidade2-crop.pdf): All authors of the second largest community.
-- [comunidade3-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/comunidade3-crop.pdf): All authors of the third largest community.
-- [comunidade4-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/comunidade4-crop.pdf): All authors of the fourth largest community.
-- [comunidade5-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/comunidade5-crop.pdf): All authors of the fifth largest community.
-- [comunidade6-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/comunidade6-crop.pdf): All authors of the sixth largest community.
-- [comunidade7-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/comunidade7-crop.pdf): All authors of the seventh largest community.
-- [comunidade8-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/comunidade8-crop.pdf): All authors of the eighth largest community.
-- [comunidade9-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/comunidade9-crop.pdf): All authors of the nineth largest community.
+- [completa-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/images/completa-crop.pdf): It contains all the authors who have published in the event, along with their respective collaborations.
+- [5oumais-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/images/5oumais-crop.pdf): It contains only the authors who are in the ranking of top authors, along with their respective collaborations.
+- [comunidade1-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/images/comunidade1-crop.pdf): All authors of the largest community.
+- [comunidade2-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/images/comunidade2-crop.pdf): All authors of the second largest community.
+- [comunidade3-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/images/comunidade3-crop.pdf): All authors of the third largest community.
+- [comunidade4-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/images/comunidade4-crop.pdf): All authors of the fourth largest community.
+- [comunidade5-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/images/comunidade5-crop.pdf): All authors of the fifth largest community.
+- [comunidade6-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/images/comunidade6-crop.pdf): All authors of the sixth largest community.
+- [comunidade7-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/images/comunidade7-crop.pdf): All authors of the seventh largest community.
+- [comunidade8-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/images/comunidade8-crop.pdf): All authors of the eighth largest community.
+- [comunidade9-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/images/comunidade9-crop.pdf): All authors of the nineth largest community.
 - [cidades-ranking.html](https://github.com/Sandrocamargo/publications/blob/main/revistathema2024/sna/cidades-ranking.html): Cities of ranking authors.
 
 
