@@ -29,45 +29,45 @@ Los resultados detallados, incluidas las métricas de todos los autores, están 
 
 Las imágenes, en formato PDF, son las siguientes:
 
-- [autores.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores.pdf): Contiene únicamente a los autores que están en el ranking de los principales autores, junto con sus respectivas colaboraciones.
+- [autores.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/images/autores.pdf): Contiene únicamente a los autores que están en el ranking de los principales autores, junto con sus respectivas colaboraciones.
 
-- [autores-com1.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com1.pdf): Todos los autores de la comunidad más grande.
+- [autores-com1.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/images/autores-com1.pdf): Todos los autores de la comunidad más grande.
 
-- [autores-com2.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com2.pdf): Todos los autores de la segunda comunidad más grande.
+- [autores-com2.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/images/autores-com2.pdf): Todos los autores de la segunda comunidad más grande.
 
-- [autores-com3.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com3.pdf): Todos los autores de la tercera comunidad más grande.
+- [autores-com3.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/images/autores-com3.pdf): Todos los autores de la tercera comunidad más grande.
 
-- [autores-com4.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com4.pdf): Todos los autores de la cuarta comunidad más grande.
+- [autores-com4.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/images/autores-com4.pdf): Todos los autores de la cuarta comunidad más grande.
 
-- [autores-com5.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com5.pdf): Todos los autores de la quinta comunidad más grande.
+- [autores-com5.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/images/autores-com5.pdf): Todos los autores de la quinta comunidad más grande.
 
-- [autores-com6.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com6.pdf): Todos los autores de la sexta comunidad más grande.
+- [autores-com6.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/images/autores-com6.pdf): Todos los autores de la sexta comunidad más grande.
 
-- [autores-com7.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com7.pdf): Todos los autores de la séptima comunidad más grande.
+- [autores-com7.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/images/autores-com7.pdf): Todos los autores de la séptima comunidad más grande.
 
-- [autores-com8.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/autores-com8.pdf): Todos los autores de la octava comunidad más grande.
+- [autores-com8.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/images/autores-com8.pdf): Todos los autores de la octava comunidad más grande.
 
-- [instituciones.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/instituciones.pdf): Contiene todas las instituciones junto con sus respectivas colaboraciones.
+- [instituciones.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/images/instituciones.pdf): Contiene todas las instituciones junto con sus respectivas colaboraciones.
 
-- [paises.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/paises.pdf): Contiene todos los países junto con sus respectivas colaboraciones.
+- [paises.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/images/paises.pdf): Contiene todos los países junto con sus respectivas colaboraciones.
 
-- [keywords.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/keywords.pdf): Contiene únicamente las palabras-clave que están en el ranking, junto con sus respectivas colaboraciones.
+- [keywords.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/images/keywords.pdf): Contiene únicamente las palabras-clave que están en el ranking, junto con sus respectivas colaboraciones.
 
-- [keywords-com1.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/keywords-com1.pdf): Contiene únicamente las palabras-clave que están en la comunidad más grande, junto con sus respectivas colaboraciones.
+- [keywords-com1.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/images/keywords-com1.pdf): Contiene únicamente las palabras-clave que están en la comunidad más grande, junto con sus respectivas colaboraciones.
 
-- [keywords-com2.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/keywords-com2.pdf): Contiene únicamente las palabras-clave que están en la segunda comunidad más grande, junto con sus respectivas colaboraciones.
+- [keywords-com2.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/images/keywords-com2.pdf): Contiene únicamente las palabras-clave que están en la segunda comunidad más grande, junto con sus respectivas colaboraciones.
 
-- [keywords-com3.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/keywords-com3.pdf): Contiene únicamente las palabras-clave que están en la tercera comunidad más grande, junto con sus respectivas colaboraciones.
+- [keywords-com3.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/images/keywords-com3.pdf): Contiene únicamente las palabras-clave que están en la tercera comunidad más grande, junto con sus respectivas colaboraciones.
 
-- [keywords-com4.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/keywords-com4.pdf): Contiene únicamente las palabras-clave que están en la cuarta comunidad más grande, junto con sus respectivas colaboraciones.
+- [keywords-com4.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/images/keywords-com4.pdf): Contiene únicamente las palabras-clave que están en la cuarta comunidad más grande, junto con sus respectivas colaboraciones.
 
-- [keywords-com5.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/keywords-com5.pdf): Contiene únicamente las palabras-clave que están en la quinta comunidad más grande, junto con sus respectivas colaboraciones.
+- [keywords-com5.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/images/keywords-com5.pdf): Contiene únicamente las palabras-clave que están en la quinta comunidad más grande, junto con sus respectivas colaboraciones.
 
-- [keywords-com6.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/keywords-com6.pdf): Contiene únicamente las palabras-clave que están en la sexta comunidad más grande, junto con sus respectivas colaboraciones.
+- [keywords-com6.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/images/keywords-com6.pdf): Contiene únicamente las palabras-clave que están en la sexta comunidad más grande, junto con sus respectivas colaboraciones.
 
-- [keywords-com7.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/keywords-com7.pdf): Contiene únicamente las palabras-clave que están en la séptima comunidad más grande, junto con sus respectivas colaboraciones.
+- [keywords-com7.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/images/keywords-com7.pdf): Contiene únicamente las palabras-clave que están en la séptima comunidad más grande, junto con sus respectivas colaboraciones.
 
-- [keywords-com8.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/keywords-com8.pdf): Contiene únicamente las palabras-clave que están en la octava comunidad más grande, junto con sus respectivas colaboraciones.
+- [keywords-com8.pdf](https://github.com/Sandrocamargo/publications/blob/main/raab25/images/keywords-com8.pdf): Contiene únicamente las palabras-clave que están en la octava comunidad más grande, junto con sus respectivas colaboraciones.
 
 
 ## Derechos de autor
