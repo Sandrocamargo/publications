@@ -19,7 +19,7 @@ For more details about the study, we suggest reading the full article.
 
 ## Dataset
 
-The database used for this study is available in the file [metadados.json](https://github.com/Sandrocamargo/publications/blob/main/ciinf26/metadados.json). This file contains the names of the authors of all articles published in the event.
+The database used for this study is available in the file [metadata.json](https://github.com/Sandrocamargo/publications/blob/main/ciinf26/metadata.json). This file contains the names of the authors of all articles published in the event.
 
 ## Detailed Results
 
