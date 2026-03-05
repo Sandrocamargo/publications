@@ -33,8 +33,14 @@ Images, in PDF format, are as follows:
 - [instituicoes.pdf](https://github.com/Sandrocamargo/publications/blob/main/ciinf26/instituicoes.pdf): It contains the main institutions which have published in the journal, along with their respective collaborations.
 - [paises.pdf](https://github.com/Sandrocamargo/publications/blob/main/ciinf26/paises.pdf): It contains the countries which have published in the journal, along with their respective collaborations.
 - [keywords.pdf](https://github.com/Sandrocamargo/publications/blob/main/ciinf26/keywords.pdf): It contains the most frequent keywords mentioned in the journal, along with their respective collaborations.
-
-
+- [ci-kw-com1-3+-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/ciinf26/ci-kw-com1-3+-crop.pdf): It presents the most frequent keywords (three or more occurrences) in Community 1, along with their collaboration relationships.
+- [ci-kw-com2-3+-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/ciinf26/ci-kw-com2-3+-crop.pdf): It presents the most frequent keywords (three or more occurrences) in Community 2, along with their collaboration relationships.
+- [ci-kw-com3-3+-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/ciinf26/ci-kw-com3-3+-crop.pdf): It presents the most frequent keywords (three or more occurrences) in Community 3, along with their collaboration relationships.
+- [ci-kw-com4-3+-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/ciinf26/ci-kw-com4-3+-crop.pdf): It presents the most frequent keywords (three or more occurrences) in Community 4, along with their collaboration relationships.
+- [ci-kw-com5-3+-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/ciinf26/ci-kw-com5-3+-crop.pdf): It presents the most frequent keywords (three or more occurrences) in Community 5, along with their collaboration relationships.
+- [ci-kw-com6-3+-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/ciinf26/ci-kw-com6-3+-crop.pdf): It presents the most frequent keywords (three or more occurrences) in Community 6, along with their collaboration relationships.
+- [ci-kw-com7-3+-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/ciinf26/ci-kw-com7-3+-crop.pdf): It presents the most frequent keywords (three or more occurrences) in Community 7, along with their collaboration relationships.
+- [ci-kw-com8-3+-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/ciinf26/ci-kw-com8-3+-crop.pdf): It presents the most frequent keywords (three or more occurrences) in Community 8, along with their collaboration relationships.
 
 
 ## Copyright
