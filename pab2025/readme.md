@@ -1,4 +1,4 @@
-### Leading authors and co-authorship networks in Pesquisa Agropecuária Brasileira: a 60-year bibliometric analysis
+	### Leading authors and co-authorship networks in Pesquisa Agropecuária Brasileira: a 60-year bibliometric analysis
 
 This paper was published in Pesquisa Agropecuária Brasileira, Volume X, Issue X, available at [link](https://apct.sede.embrapa.br/pab/pt_BR).
 
@@ -28,27 +28,16 @@ The detailed results, including the metrics for all authors, are available at [r
 ## Images
 
 Images, in PDF format, are as follows:
-- [todos-fruchterman-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/abd25/todos-fruchterman-crop.pdf): It contains all the authors who have published in the event, along with their respective collaborations.
-- [50+-crop](https://github.com/Sandrocamargo/publications/blob/main/abd25/50+-crop.pdf): It contains only the authors who are in the ranking of top authors, along with their respective collaborations.
-- [comunidade1.pdf](https://github.com/Sandrocamargo/publications/blob/main/abd25/comunidade1-crop.pdf): Top authors of the largest community.
-- [comunidade1-completa-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/abd25/comunidade1-completa-crop.pdf): All authors of the largest community.
-- [comunidade2.pdf](https://github.com/Sandrocamargo/publications/blob/main/abd25/comunidade2-crop.pdf): Top authors of the second largest community.
-- [comunidade2-completa-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/abd25/comunidade2-completa-crop.pdf): All authors of the second largest community.
-- [comunidade3.pdf](https://github.com/Sandrocamargo/publications/blob/main/abd25/comunidade3-crop.pdf): Top authors of the third largest community.
-- [comunidade3-completa-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/abd25/comunidade3-completa-crop.pdf): All authors of the third largest community.
-- [comunidade4.pdf](https://github.com/Sandrocamargo/publications/blob/main/abd25/comunidade4-crop.pdf): Top authors of the fourth largest community.
-- [comunidade4-completa-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/abd25/comunidade4-completa-crop.pdf): All authors of the fourth largest community.
-- [comunidade5.pdf](https://github.com/Sandrocamargo/publications/blob/main/abd25/comunidade5-crop.pdf): Top authors of the fifth largest community.
-- [comunidade5-completa-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/abd25/comunidade5-completa-crop.pdf): All authors of the fifth largest community.
-- [comunidade6.pdf](https://github.com/Sandrocamargo/publications/blob/main/abd25/comunidade6-crop.pdf): Top authors of the sixth largest community.
-- [comunidade6-completa-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/abd25/comunidade6-completa-crop.pdf): All authors of the sixth largest community.
-- [comunidade7.pdf](https://github.com/Sandrocamargo/publications/blob/main/abd25/comunidade7-crop.pdf): Top authors of the seventh largest community.
-- [comunidade7-completa-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/abd25/comunidade7-completa-crop.pdf): All authors of the seventh largest community.
-- [comunidade8.pdf](https://github.com/Sandrocamargo/publications/blob/main/abd25/comunidade8-crop.pdf): Top authors of the eighth largest community.
-- [comunidade8-completa-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/abd25/comunidade8-completa-crop.pdf): All authors of the eighth largest community.
-- [comunidade9.pdf](https://github.com/Sandrocamargo/publications/blob/main/abd25/comunidade9-crop.pdf): Top authors of the nineth largest community.
-- [comunidade9-completa-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/abd25/comunidade9-completa-crop.pdf): All authors of the nineth largest community.
-
+- [todos-fruchterman-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/pab2025/todos-crop.pdf): It contains all the authors who have published in the event, along with their respective collaborations.
+- [50+-crop](https://github.com/Sandrocamargo/publications/blob/main/pab2025/50+-crop.pdf): It contains only the authors who are in the ranking of top authors, along with their respective collaborations.
+- [comunidade1.pdf](https://github.com/Sandrocamargo/publications/blob/main/pab2025/pab-com1-crop.pdf): Top authors of the largest community.
+- [comunidade2.pdf](https://github.com/Sandrocamargo/publications/blob/main/pab2025/pab-com2-crop.pdf): Top authors of the second largest community.
+- [comunidade3.pdf](https://github.com/Sandrocamargo/publications/blob/main/pab2025/pab-com3-crop.pdf): Top authors of the third largest community.
+- [comunidade4.pdf](https://github.com/Sandrocamargo/publications/blob/main/pab2025/pab-com4-crop.pdf): Top authors of the fourth largest community.
+- [comunidade5.pdf](https://github.com/Sandrocamargo/publications/blob/main/pab2025/pab-com5-crop.pdf): Top authors of the fifth largest community.
+- [comunidade6.pdf](https://github.com/Sandrocamargo/publications/blob/main/pab2025/pab-com6-crop.pdf): Top authors of the sixth largest community.
+- [comunidade7.pdf](https://github.com/Sandrocamargo/publications/blob/main/pab2025/pab-com7-crop.pdf): Top authors of the seventh largest community.
+- [comunidade8.pdf](https://github.com/Sandrocamargo/publications/blob/main/pab2025/pab-com8-crop.pdf): Top authors of the eighth largest community.
 
 
 ## Copyright
