@@ -19,11 +19,11 @@ For more details about the study, we suggest reading the full article.
 
 ## Dataset
 
-The database used for this study is available in the file [authors.txt](https://github.com/Sandrocamargo/publications/blob/main/pab2025/autores.txt). This file contains the names of the authors of all articles published in the event.
+The database used for this study is available in the file [metadata.json](https://github.com/Sandrocamargo/publications/blob/main/pab2025/metadata.json). This file contains the names of the authors of all articles published in the journal.
 
 ## Detailed Results
 
-The detailed results, including the metrics for all authors, are available at [complete-ranking.xls](https://github.com/Sandrocamargo/publications/blob/main/pab2025/complete-ranking.xls). 
+The detailed results, including the metrics for all authors, are available at [ranking.ods](https://github.com/Sandrocamargo/publications/blob/main/pab2025/ranking.ods). 
 
 ## Images
 
@@ -57,4 +57,4 @@ This material is available by [Creative Commons](https://creativecommons.org/lic
 
 ## Citation
 
-Grimaldi HC, Camargo SS. Anais Brasileiros de Dermatologia: who wrote this century-old history? An Bras Dermatol. 2025;100(3). doi:10.1016/j.abd.2025.02.001. Available from: https://www.anaisdedermatologia.org.br/en-anais-brasileiros-dermatologia-who-wrote-avance-S0365059625000303
+Available soon.
