@@ -28,8 +28,7 @@ The detailed results, including the metrics for all authors, are available at [r
 ## Images
 
 Images, in PDF format, are as follows:
-- [todos-fruchterman-crop.pdf](https://github.com/Sandrocamargo/publications/blob/main/pab2025/todos-crop.pdf): It contains all the authors who have published in the event, along with their respective collaborations.
-- [50+-crop](https://github.com/Sandrocamargo/publications/blob/main/pab2025/50+-crop.pdf): It contains only the authors who are in the ranking of top authors, along with their respective collaborations.
+- [topauthors.pdf](https://github.com/Sandrocamargo/publications/blob/main/pab2025/pab-24+-crop.pdf): It contains only the authors who are in the ranking of top authors, along with their respective collaborations.
 - [comunidade1.pdf](https://github.com/Sandrocamargo/publications/blob/main/pab2025/pab-com1-crop.pdf): Top authors of the largest community.
 - [comunidade2.pdf](https://github.com/Sandrocamargo/publications/blob/main/pab2025/pab-com2-crop.pdf): Top authors of the second largest community.
 - [comunidade3.pdf](https://github.com/Sandrocamargo/publications/blob/main/pab2025/pab-com3-crop.pdf): Top authors of the third largest community.
